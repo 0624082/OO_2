@@ -32,5 +32,13 @@
 |0|David|3|
 |1|Fred|3|
 |2|Kolin|4|
-
+```JAVA
+//-----------start-----------
+public enum Day {
+    SUNDAY,
+    MONDAY,
+    SATURDAY
+}
+//------------end------------
+```
 ![https://www.youtube.com/watch?v=gvrg6e7riP8](Rain.jpg "rainy")  
