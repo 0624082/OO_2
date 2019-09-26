@@ -46,5 +46,5 @@ public enum Day {
 }
 //------------end------------
 ```
-[![Rainy](Rain.png)](https://www.youtube.com/watch?v=gvrg6e7riP8)
+[![Rainy](Rain.jpg)](https://www.youtube.com/watch?v=gvrg6e7riP8)
 
