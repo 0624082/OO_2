@@ -7,7 +7,7 @@ public class app11_1{
     shape3.show;
    }
 }
-abtract class CShape{
+abstract class CShape{
   protected String color;
   public void setColor(String str){
     color=str;
