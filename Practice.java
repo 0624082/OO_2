@@ -1,5 +1,5 @@
 
-```JAVA
+
 public class app11_1{
   public static void main(String args[]){
     CShape shape3 =new CTriango(3,4,5);
@@ -26,5 +26,3 @@ class CTriangle extends Cshape{
   }
 }
 
-
-```
