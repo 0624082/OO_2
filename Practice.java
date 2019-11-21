@@ -1,12 +1,5 @@
 
 
-public class app11_1{
-  public static void main(String args[]){
-    CShape shape3 =new CTriango(3,4,5);
-    shape3.setColor("Red");
-    shape3.show;
-   }
-}
 abstract class CShape{
   protected String color;
   public void setColor(String str){
@@ -26,3 +19,11 @@ class CTriangle extends Cshape{
   }
 }
 
+
+public class app11_1{
+  public static void main(String args[]){
+    CShape shape3 =new CTriango(3,4,5);
+    shape3.setColor("Red");
+    shape3.show;
+   }
+}
