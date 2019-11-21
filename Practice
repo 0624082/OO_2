@@ -1,4 +1,4 @@
-```JAVA
+'''JAVA
 abtract class CShape{
   protected String color;
   public void setColor(String str){
@@ -6,7 +6,7 @@ abtract class CShape{
   }
   public abstract void show();
 }
-```
+'''
 class CTriangle extends Cshape{
   protected double area;
   public CTriangle(double a,double b,double c){
