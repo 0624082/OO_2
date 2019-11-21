@@ -6,7 +6,7 @@ abtract class CShape{
   }
   public abstract void show();
 }
-
+```
 class CTriangle extends Cshape{
   protected double area;
   public CTriangle(double a,double b,double c){
@@ -25,4 +25,3 @@ public class app11_1{
     shape3.show;
    }
 }
-```
