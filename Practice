@@ -1,4 +1,6 @@
-```
+
+```JAVA
+
 abtract class CShape{
   protected String color;
   public void setColor(String str){
@@ -25,4 +27,5 @@ public class app11_1{
     shape3.show;
    }
 }
+
 ```
