@@ -10,6 +10,10 @@ class Rectangle implements Shape{
      length = l;
      width = w;
   }
+  public String toString(){
+  return "area+="
+  }
+  
   public void getArea(){
     System.out.println("area="length*width);
   }
